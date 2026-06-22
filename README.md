@@ -53,6 +53,11 @@ It explores vehicle memory, service history, maintenance reminders, monthly chec
 
 Status: product prototype and planning work; useful app foundations are in place, but the assistant layer and production polish are not finished.
 
+<p>
+  <img src="assets/portfolio/car-care-garage.png" alt="Car Care Companion garage dashboard with weather context, maintenance status, and vehicle memory" width="360">
+  <img src="assets/portfolio/car-care-help.png" alt="Car Care Companion Help Me Decide flow for structured car guidance" width="360">
+</p>
+
 ## Interests
 
 Mobile apps, product engineering, practical tools, calm interfaces, and software that handles messy real-world constraints.

@@ -12,11 +12,21 @@ Built with SwiftUI, CoreLocation, CoreMotion, local astronomy calculations, weat
 
 Status: indoor prototype complete; outdoor validation still needed.
 
+<p>
+  <img src="assets/portfolio/ariadne-home.png" alt="Ariadne home screen with red-on-black stargazing target lists" width="220">
+  <img src="assets/portfolio/ariadne-hunt-hold.png" alt="Ariadne hunt mode showing HOLD guidance for the Big Dipper" width="220">
+</p>
+
 **Garden Companion** is a Godot prototype for a botanically grounded garden simulation.
 
 It focuses on a tomato vertical slice: plants grow from a tree of roots, stems, nodes, compound leaves, flower trusses, and fruit, while a raised bed stores soil and air as 3D matrices for water, nutrients, sunlight, airflow, and disease pressure.
 
 Status: developer-playable simulation prototype; final game loop and visual polish are still in progress.
+
+<p>
+  <img src="assets/portfolio/garden-tomato-gameplay.png" alt="Procedural tomato plants with compound leaves and fruit clusters" width="360">
+  <img src="assets/portfolio/garden-sunlight-matrix.png" alt="Garden Companion sunlight matrix debug view around tomato plants" width="360">
+</p>
 
 **Career Memory for Obsidian** is a local-first Obsidian plugin prototype for turning natural-language work updates into structured career memory and resume bullet candidates.
 

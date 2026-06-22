@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "metadataPath": "../astronomy-hunt/portfolio.json"
+    },
+    {
+      "metadataPath": "../garden-companion/portfolio.json"
+    },
+    {
+      "metadataPath": "../strange-language-studio/portfolio.json"
+    },
+    {
+      "metadataPath": "../career-memory-obsidian/portfolio.json"
+    },
+    {
+      "metadataPath": "../car-care-companion/portfolio.json"
+    }
+  ]
+}

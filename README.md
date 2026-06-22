@@ -6,7 +6,9 @@ Most of the work here is still private or in progress. I use these projects to p
 
 ## Selected Prototypes
 
-**Ariadne / Astronomy Hunt** is a darkness-first iOS stargazing assistant for finding stars, planets, the Moon, and sky patterns without staring at a bright screen.
+### Ariadne / Astronomy Hunt
+
+A darkness-first iOS stargazing assistant for finding stars, planets, the Moon, and sky patterns without staring at a bright screen.
 
 Built with SwiftUI, CoreLocation, CoreMotion, local astronomy calculations, weather-aware visibility scoring, short-lived calibration, haptics, optional speech, and a red-only night interface.
 
@@ -17,7 +19,9 @@ Status: indoor prototype complete; outdoor validation still needed.
   <img src="assets/portfolio/ariadne-hunt-hold.png" alt="Ariadne hunt mode showing HOLD guidance for the Big Dipper" width="220">
 </p>
 
-**Garden Companion** is a Godot prototype for a botanically grounded garden simulation.
+### Garden Companion
+
+A Godot prototype for a botanically grounded garden simulation.
 
 It focuses on a tomato vertical slice: plants grow from a tree of roots, stems, nodes, compound leaves, flower trusses, and fruit, while a raised bed stores soil and air as 3D matrices for water, nutrients, sunlight, airflow, and disease pressure.
 
@@ -28,13 +32,17 @@ Status: developer-playable simulation prototype; final game loop and visual poli
   <img src="assets/portfolio/garden-sunlight-matrix.png" alt="Garden Companion sunlight matrix debug view around tomato plants" width="360">
 </p>
 
-**Career Memory for Obsidian** is a local-first Obsidian plugin prototype for turning natural-language work updates into structured career memory and resume bullet candidates.
+### Career Memory for Obsidian
+
+A local-first Obsidian plugin prototype for turning natural-language work updates into structured career memory and resume bullet candidates.
 
 It uses TypeScript, Markdown persistence, Zod-validated structured AI output, a human review step before file writes, provider adapters for mock/OpenAI/Anthropic flows, and an early job-description matching workflow.
 
 Status: early private prototype; mock workflow works, but UI polish, tests, and real-provider QA are still pending.
 
-**Car Care Companion** is an Expo / React Native prototype for everyday car ownership support.
+### Car Care Companion
+
+An Expo / React Native prototype for everyday car ownership support.
 
 It explores vehicle memory, service history, maintenance reminders, monthly checks, mechanic-prep summaries, weather-aware driving context, and structured help flows for unsure drivers.
 

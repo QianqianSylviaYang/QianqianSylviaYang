@@ -40,6 +40,11 @@ It uses TypeScript, Markdown persistence, Zod-validated structured AI output, a 
 
 Status: early private prototype; mock workflow works, but UI polish, tests, and real-provider QA are still pending.
 
+<p>
+  <img src="assets/portfolio/career-memory-review.png" alt="Career Memory review flow for proposed work updates" width="300">
+  <img src="assets/portfolio/career-memory-obsidian.png" alt="Career Memory notes written into an Obsidian vault with graph view" width="460">
+</p>
+
 ### Car Care Companion
 
 An Expo / React Native prototype for everyday car ownership support.

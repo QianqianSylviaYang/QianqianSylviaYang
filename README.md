@@ -32,6 +32,18 @@ Status: developer-playable simulation prototype; final game loop and visual poli
   <img src="assets/portfolio/garden-sunlight-matrix.png" alt="Garden Companion sunlight matrix debug view around tomato plants" width="360">
 </p>
 
+### Strange Language Studio
+
+A local-first creative tool for designing fictional languages for writing, worldbuilding, games, and art projects.
+
+It includes a guided creation flow, saved language profiles, editable lexicon entries, procedural SVG glyphs, phrase translation, phrasebook entries, mock and optional OpenAI-backed agent flows, and JSON, Markdown, and SVG exports.
+
+Status: Phase 1 vertical slice; build and lint pass, but deeper linguistics, safer production AI plumbing, and richer glyph customization are future work.
+
+<p>
+  <img src="assets/portfolio/strange-language-studio.png" alt="Strange Language Studio glyph workspace with translation and agent review panels" width="520">
+</p>
+
 ### Career Memory for Obsidian
 
 A local-first Obsidian plugin prototype for turning natural-language work updates into structured career memory and resume bullet candidates.
